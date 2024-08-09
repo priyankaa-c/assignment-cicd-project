@@ -1,1 +1,1 @@
-# assignment-cicd-project
+# Assignment CI/CD Project
